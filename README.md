@@ -50,7 +50,7 @@ deactivate
 # Create a directory for your app
 Next, let's create a directory for our app. This is where all our files will go:
 
-$ mkdir my-project<b >
+$ mkdir my-project<br >
 $ cd my-project<br >
 Finally, let's install Flask:<br >
 $ pip install Flask<br >
