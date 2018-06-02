@@ -1,10 +1,11 @@
 # hello_world_flask2.io
 hello world in flask
 
-#Getting started with flask
+# Getting started with flask
 https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework
 
-#Installation
+# Installation
+We'll need the following installed for this tutorial:
 1.python
 2.virtual env and virtualenvwrapper
 3.Flask
@@ -41,6 +42,7 @@ To decativate the virtual environment and use your original Python environment, 
 
 deactivate
 
+# Create a directory for your app
 Next, let's create a directory for our app. This is where all our files will go:
 
 $ mkdir my-project
