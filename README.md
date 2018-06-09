@@ -71,3 +71,4 @@ You can save the output above in a file. This is good practice because anyone wh
 #
 pip freeze > requirements.txt
 
+learn more on the requirement.txt on Pipenv: A Guide to the New Python Packaging using this link https://realpython.com/pipenv-guide/
