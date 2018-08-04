@@ -35,8 +35,8 @@ Activate the virtual environment
 You can activate the python environment by running the following command:
 #
 ```sh
-Mac OS / Linux<br >
-source my-venv/bin/activate<br >
+Mac OS / Linux
+source my-venv/bin/activate
 ```
 
 Windows
