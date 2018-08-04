@@ -8,18 +8,20 @@ https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework
 
 # Installation
 We'll need the following installed for this tutorial:<br >
+```sh
 1.python.<br >
 2.virtual env and virtualenvwrapper<br >
 3.Flask<br >
+```
 
 We'll start by installing virtualenv, a tool to create isolated Python environments. We need to use virtual environments to keep the dependencies used by different Python projects separate, and to keep our global site-packages directory clean. We'll go one step further and install virtualenvwrapper, a set of extensions that make using virtualenv a whole lot easier by providing simpler commands.
 
 #
 
-$pip install virtualenv<br >
-$pip install virtualwrapper<br >
-$export WORKON_HOME=~/Envs\n
-$ source /usr/local/bin/virtualenvwrapper.sh<br >
+**$pip install virtualenv<br >**
+**$pip install virtualwrapper<br >**
+**$export WORKON_HOME=~/Envs\n**
+**$ source /usr/local/bin/virtualenvwrapper.sh<br >**
 
 To create and activate a virtualenv, run the following commands:
 #
