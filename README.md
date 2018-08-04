@@ -18,10 +18,10 @@ We'll start by installing virtualenv, a tool to create isolated Python environme
 
 #
 
-**`$pip install virtualenv<br>`**
-**`$pip install virtualwrapper<br>`**
-**`$export WORKON_HOME=~/Envs\n`**
-**`$ source /usr/local/bin/virtualenvwrapper.sh`<br>**
+**$pip install virtualenv<br>**
+**$pip install virtualwrapper<br>**
+**$export WORKON_HOME=~/Envs\n**
+**$ source /usr/local/bin/virtualenvwrapper.sh<br>**
 
 To create and activate a virtualenv, run the following commands:
 #
